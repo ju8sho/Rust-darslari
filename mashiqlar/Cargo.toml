@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hususiyatlar_traits",
+    "hususiyatlarni_amalga_oshirish",
+    "structura",
+]

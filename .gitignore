@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+# Rust/Cargo
+target/
+**/*.rs.bk
+*.log
+*.lock
+*.tmp
+*.temp
+**/target/
+**/Cargo.lock
